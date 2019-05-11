@@ -1,2 +1,1 @@
-# timeseriesanalysisgw
-ARIMA models for grounwater level analysis and forecasting.
+This project explores groundwater level data using non-parametric approaches, and forecasts future groundwater levels based on Auto Regressive Integrated Moving Average (ARIMA). Data were collected near Sunol Regional Wildness and provided by San Francisco Public Utilities Commissions (SFPUC), CA, USA.
